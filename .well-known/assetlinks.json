@@ -1,0 +1,13 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],"target": {
+      "namespace": "android_app",
+      "package_name": "com.welwork.apwplayer",
+      "sha256_cert_fingerprints": [
+        "F9:ED:48:DD:D0:D8:1C:15:EA:7D:CF:D8:30:CD:1A:A6:C0:E6:DD:EB:29:9D:8E:DF:70:B7:7E:6B:71:D7:14:E6"
+      ]
+    }
+  }
+]
