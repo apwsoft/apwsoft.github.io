@@ -5,7 +5,16 @@
       "namespace": "android_app",
       "package_name": "com.welwork.apwplayer",
       "sha256_cert_fingerprints":
-        ["4E:CD:C1:FA:BC:53:38:6B:4B:91:EB:93:D0:04:53:D6:6B:6A:F5:47:C0:0A:E0:03:0D:8C:97:4B:05:32:B9:D7","F9:ED:48:DD:D0:D8:1C:15:EA:7D:CF:D8:30:CD:1A:A6:C0:E6:DD:EB:29:9D:8E:DF:70:B7:7E:6B:71:D7:14:E6"]
+        ["4E:CD:C1:FA:BC:53:38:6B:4B:91:EB:93:D0:04:53:D6:6B:6A:F5:47:C0:0A:E0:03:0D:8C:97:4B:05:32:B9:D7"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.welwork.apwplayer",
+      "sha256_cert_fingerprints":
+        ["F9:ED:48:DD:D0:D8:1C:15:EA:7D:CF:D8:30:CD:1A:A6:C0:E6:DD:EB:29:9D:8E:DF:70:B7:7E:6B:71:D7:14:E6"]
     }
   }
 ]
